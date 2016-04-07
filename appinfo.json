@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "justinfriedman22@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Teeth Timer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Teeth Timer",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "5fd5c798-c13f-4299-93ee-088e4b74e9e8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
